@@ -5,11 +5,11 @@ An application built with React, Bootstrap, JavaScript, CSS and the Fake Store R
 This application is deployed on: https://react-shopping-app-chris49.netlify.app/
 
 ## Project Screen Shots
-<img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo1.PNG" width="600" > 
+<img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo1.PNG" width="700" > 
 
-<img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo2.PNG" width="600" > 
+<img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo2.PNG" width="700" > 
 
-<img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo3.PNG" width="600" > 
+<img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo3.PNG" width="700" > 
 
 ## Installation and Setup Instructions
 

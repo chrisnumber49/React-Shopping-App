@@ -25,4 +25,4 @@ To Visit App: `localhost:3000/`
 
 In this React side project. I built an application that can... I started this project by using the command `create-react-app` to create the boilerplate, then two additional library `Bootstrap`, `react-router-dom` were installed during the development in this project.  
 
-The technologies implemented in this project including React, uuid, react-router-dom, Bootstrap and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of functional component, React hooks and lastly how to switch the component rendering and pass the props between component Via React-Router.
+The technologies implemented in this project including React, react-router-dom, Bootstrap, consuming of REST API and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of...

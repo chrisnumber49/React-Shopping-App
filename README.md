@@ -2,6 +2,8 @@
 
 An application built with React, Bootstrap, JavaScript, CSS and the Fake Store REST API which is used to...
 
+This application is deployed on: https://react-shopping-app-chris49.netlify.app/
+
 ## Project Screen Shots
 <img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo2.PNG" width="600" > <img src="https://github.com/chrisnumber49/React-Contact-App/blob/master/screen%20shot/demo4.PNG" width="600" >
 

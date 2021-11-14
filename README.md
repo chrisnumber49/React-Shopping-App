@@ -1,6 +1,6 @@
 # React Shopping App
 
-An application built with React, Bootstrap, JavaScript, CSS and the Fake Store REST API which is used to...
+An application simulates a shopping website that built with React, Bootstrap, JavaScript, CSS and the Fake Store REST API.
 
 This application is deployed on: https://react-shopping-app-chris49.netlify.app/
 
@@ -23,6 +23,6 @@ To Visit App: `localhost:3000/`
 
 ## Reflection 
 
-In this React side project. I built an application that can... I started this project by using the command `create-react-app` to create the boilerplate, then two additional library `Bootstrap`, `react-router-dom` were installed during the development in this project.  
+In this React side project. I built an application that simulates a shopping website. Firstly we fetch the data of products from the Fake Store REST API, following we can add or remove products in the shopping cart then set the amount and check out. I started this project by using the command `create-react-app` to create the boilerplate, then two additional library `Bootstrap`, `react-router-dom` were installed during the development in this project.  
 
-The technologies implemented in this project including React, react-router-dom, Bootstrap, consuming of REST API and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of...
+The technologies implemented in this project including React, react-router-dom, Bootstrap, consuming of REST API and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of class component and its lifecycle and how to requset different data from the REST API to make the content in our applications even more diverse.

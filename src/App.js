@@ -5,7 +5,7 @@ import ShoppingCart from './components/ShoppingCart';
 import OrderResult from './components/OrderResult';
 import ItemList from './components/ItemList';
 
-// this chat app is using Fake Store API (https://fakestoreapi.com/)
+// this app is using Fake Store API (https://fakestoreapi.com/)
 
 class APP extends React.Component {
   constructor(){

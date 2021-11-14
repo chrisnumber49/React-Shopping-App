@@ -29,7 +29,7 @@ class OrderResult extends React.Component {
         
         return (
             <div className="container-fluid" style={{marginTop:'80px', marginBottom:'360px'}}>
-                <h1 className="font-weight-bold text-success m-3">Your order has succeeded!</h1>
+                <h1 className="font-weight-bold text-success m-3">Your order is succeeded!</h1>
                 <h2 className="m-3 font-weight-bold">Item:</h2>
 
                 {myItem}

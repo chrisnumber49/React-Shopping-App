@@ -4,6 +4,8 @@ An application simulates a shopping website that built with React, Bootstrap, Ja
 
 This application is deployed on: https://react-shopping-app-chris49.netlify.app/
 
+Fake Store REST API: https://fakestoreapi.com/
+
 ## Project Screen Shots
 <img src="https://github.com/chrisnumber49/React-Shopping-App/blob/master/screen%20shot/demo1.PNG" width="700" > 
 
